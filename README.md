@@ -1,7 +1,7 @@
 # Data-Science-in-Python
 
 ### Table of contents
-* [Installlation](#anaconda-download )
+* [Installlation](#installlation )
 * [Books](#books)
 * [Online courses](#online-courses)
 * [Youtube channels % Videos](#Youtube-Videos-&-Channels )
@@ -11,10 +11,11 @@
 * [Data Sets](#data-sets)
 
 
-## Anaconda Download 
+## Installlation
+Anaconda  
 https://www.anaconda.com/download/
 
-or alternative
+or Winpy (alternative)
 
 https://sourceforge.net/projects/winpython/files/WinPython_3.6/3.6.3.0/
 
