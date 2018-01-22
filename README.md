@@ -1,9 +1,19 @@
 # Data-Science-in-Python
 
+### Table of contents
+* [Installlation](#Anaconda-Download )
+* [Books](#books)
+* [Youtube channels % Videos](#Youtube Videos & Channels )
+* [Presentations](#Presentations)
+* [Competitions](#Competitions)
+* [Data Sets](#Data-Sets)
+
+
 ## Anaconda Download 
 https://www.anaconda.com/download/
 
 or alternative
+
 https://sourceforge.net/projects/winpython/files/WinPython_3.6/3.6.3.0/
 
 ## What is Data Science?
