@@ -3,12 +3,13 @@
 ### Table of contents
 * [Installlation](#anaconda-download )
 * [Books](#books)
+* [Online courses](#Online-courses)
 * [Youtube channels % Videos](#Youtube-Videos-&-Channels )
 * [Presentations](#presentations)
 * [Competitions](#competitions)
 * [Data Science Ideas](#data-science-ideas)
 * [Data Sets](#data-sets)
-#data-science-ideas
+
 
 ## Anaconda Download 
 https://www.anaconda.com/download/
@@ -41,6 +42,16 @@ https://sourceforge.net/projects/winpython/files/WinPython_3.6/3.6.3.0/
 - [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r)
 - [Exploring Data Science](https://www.manning.com/books/exploring-data-science) - free eBook sampler
 - [Exploring the Data Jungle](https://www.manning.com/books/exploring-the-data-jungle) - free eBook sampler
+
+## Online courses
+
+ - [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
+ - [Microsoft Professional Program in Data Science](https://www.edx.org/microsoft-professional-program-data-science)
+ - [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
+ - [Python Data camp](https://www.datacamp.com/courses/tech:python)
+ - [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-8)
+ - [Intro to Data Science by Microsoft](https://www.edx.org/course/microsoft-professional-orientation-data-microsoft-dat101x-0)
+ 
 
 
 ## Youtube Videos & Channels
