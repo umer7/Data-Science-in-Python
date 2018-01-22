@@ -4,7 +4,7 @@
 * [Installation](#installation )
 * [Books](#books)
 * [Online courses](#online-courses)
-* [Youtube channels % Videos](#Youtube-Videos-&-Channels )
+* [Youtube channels & Videos](#Youtube-Videos-&-Channels )
 * [Presentations](#presentations)
 * [Data Science using Python](#data-science-using-python)
 
