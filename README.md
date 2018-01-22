@@ -6,6 +6,8 @@
 * [Online courses](#online-courses)
 * [Youtube channels % Videos](#Youtube-Videos-&-Channels )
 * [Presentations](#presentations)
+* [Data Science using Python](#data-science-using-python)
+
 * [Competitions](#competitions)
 * [Data Science Ideas](#data-science-ideas)
 * [Data Sets](#data-sets)
@@ -54,7 +56,6 @@ https://sourceforge.net/projects/winpython/files/WinPython_3.6/3.6.3.0/
  - [Intro to Data Science by Microsoft](https://www.edx.org/course/microsoft-professional-orientation-data-microsoft-dat101x-0)
  
 
-
 ## Youtube Videos & Channels
 
  - [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)
@@ -80,6 +81,53 @@ https://sourceforge.net/projects/winpython/files/WinPython_3.6/3.6.3.0/
 * [What Does a Data Scientist Do?](http://www.slideshare.net/datasciencelondon/big-data-sorry-data-science-what-does-a-data-scientist-do)
 * [Building Data Start-Ups: Fast, Big, and Focused](http://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
 * [How to win data science competitions with Deep Learning](http://www.slideshare.net/0xdata/how-to-win-data-science-competitions-with-deep-learning)
+
+## Data Science using Python
+This list covers only Python, as many are already familiar with this language. [Data Science tutorials using R](https://github.com/ujjwalkarn/DataScienceR).
+
+### Learning Python
+
+- [YouTube tutorial series by sentdex](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+- [Interactive Python tutorial website](http://www.learnpython.org/)
+
+### numpy
+[numpy](http://www.numpy.org/) is a Python library which provides large multidimensional arrays and fast mathematical operations on them.
+
+- [Numpy tutorial on DataCamp](https://www.datacamp.com/community/tutorials/python-numpy-tutorial#gs.h3DvLnk)
+
+### pandas
+[pandas](http://pandas.pydata.org/index.html) provides efficient data structures and analysis tools for Python. It is build on top of numpy.
+
+- [Introduction to pandas](http://www.synesthesiam.com/posts/an-introduction-to-pandas.html)
+- [DataCamp pandas foundations](https://www.datacamp.com/courses/pandas-foundations) - Paid course, but 30 free days upon account creation (enough to complete course).
+- [Pandas cheatsheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf) - Quick overview over the most important functions.
+
+### scikit-learn
+[scikit-learn](http://scikit-learn.org/stable/) is the most common library for Machine Learning and Data Science in Python.
+
+- [Introduction and first model application](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.02-Introducing-Scikit-Learn.ipynb)
+- [Rough guide for choosing estimators](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+- [Scikit-learn complete user guide](http://scikit-learn.org/stable/user_guide.html)
+- [Model ensemble: Implementation in Python](http://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/)
+
+### Jupyter Notebook
+[Jupyter Notebook](https://jupyter.org/) is a web application for easy data visualisation and code presentation.
+
+- [Downloading and running first Jupyter notebook](https://jupyter.org/install.html)
+- [Example notebook for data exploration](https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-instacart)
+- [Seaborn data visualization tutorial](https://elitedatascience.com/python-seaborn-tutorial) - Plot library that works great with Jupyter.
+
+### Common Algorithms and Procedures
+
+- [Supervised vs unsupervised learning](https://stackoverflow.com/questions/1832076/what-is-the-difference-between-supervised-learning-and-unsupervised-learning) - The two most common types of Machine Learning algorithms. 
+- [9 important Data Science algorithms and their implementation](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.05-Naive-Bayes.ipynb) 
+- [Cross validation](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.03-Hyperparameters-and-Model-Validation.ipynb) - Evaluate the performance of your algorithm / model.
+- [Feature engineering](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.04-Feature-Engineering.ipynb) - Modifying the data to better model predictions.
+- [Scientific introduction to 10 important Data Science algorithms](http://www.cs.umd.edu/%7Esamir/498/10Algorithms-08.pdf)
+- [Model ensemble: Explanation](https://www.analyticsvidhya.com/blog/2017/02/introduction-to-ensembling-along-with-implementation-in-r/) - Combine multiple models into one for better performance.
+
+
+
 
 ## Competitions
 
@@ -225,3 +273,5 @@ https://sourceforge.net/projects/winpython/files/WinPython_3.6/3.6.3.0/
 * [Open data Index](http://index.okfn.org/)
 * [Liver Tumor Segmentation Challenge Dataset](http://www.lits-challenge.com/)
 
+Reference
+https://github.com/bulutyazilim/awesome-datascience
