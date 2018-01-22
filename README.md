@@ -275,3 +275,5 @@ This list covers only Python, as many are already familiar with this language. [
 
 Reference
 https://github.com/bulutyazilim/awesome-datascience
+https://github.com/JosPolfliet/awesome-datascience-ideas
+https://github.com/siboehm/awesome-learn-datascience
