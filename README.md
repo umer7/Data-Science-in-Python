@@ -6,8 +6,9 @@
 * [Youtube channels % Videos](#Youtube-Videos-&-Channels )
 * [Presentations](#presentations)
 * [Competitions](#competitions)
+* [Data Science Ideas](#data-science-ideas)
 * [Data Sets](#data-sets)
-
+#data-science-ideas
 
 ## Anaconda Download 
 https://www.anaconda.com/download/
