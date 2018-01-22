@@ -3,7 +3,7 @@
 ### Table of contents
 * [Installlation](#anaconda-download )
 * [Books](#books)
-* [Online courses](#Online-courses)
+* [Online courses](#online-courses)
 * [Youtube channels % Videos](#Youtube-Videos-&-Channels )
 * [Presentations](#presentations)
 * [Competitions](#competitions)
