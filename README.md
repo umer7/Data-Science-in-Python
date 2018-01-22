@@ -1,12 +1,12 @@
 # Data-Science-in-Python
 
 ### Table of contents
-* [Installlation](#Anaconda-Download )
+* [Installlation](#anaconda-download )
 * [Books](#books)
-* [Youtube channels % Videos](#Youtube Videos & Channels )
-* [Presentations](#Presentations)
-* [Competitions](#Competitions)
-* [Data Sets](#Data-Sets)
+* [Youtube channels % Videos](#Youtube-Videos-&-Channels )
+* [Presentations](#presentations)
+* [Competitions](#competitions)
+* [Data Sets](#data-sets)
 
 
 ## Anaconda Download 
