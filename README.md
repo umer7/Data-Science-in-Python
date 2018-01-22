@@ -1,7 +1,7 @@
 # Data-Science-in-Python
 
 ### Table of contents
-* [Installlation](#installlation )
+* [Installation](#installation )
 * [Books](#books)
 * [Online courses](#online-courses)
 * [Youtube channels % Videos](#Youtube-Videos-&-Channels )
@@ -11,7 +11,7 @@
 * [Data Sets](#data-sets)
 
 
-## Installlation
+## Installation
 Anaconda  
 https://www.anaconda.com/download/
 
