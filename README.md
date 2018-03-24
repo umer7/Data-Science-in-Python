@@ -4,7 +4,7 @@
 * [Installation](#installation )
 * [Books](#books)
 * [Online courses](#online-courses)
-* [Youtube channels & Videos](#Youtube-Videos-&-Channels )
+* [Youtube channels & Videos](#youtube-videos--channels )
 * [Presentations](#presentations)
 * [Data Science using Python](#data-science-using-python)
 
@@ -14,12 +14,12 @@
 
 
 ## Installation
-Anaconda  
-https://www.anaconda.com/download/
 
-or Winpy (alternative)
+* [Anaconda](https://www.anaconda.com/download/)
 
-https://sourceforge.net/projects/winpython/files/WinPython_3.6/3.6.3.0/
+or 
+* [Winpy](https://sourceforge.net/projects/winpython/files/WinPython_3.6/3.6.3.0/) (alternative)
+
 
 ## What is Data Science?
 
